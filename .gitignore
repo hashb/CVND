@@ -1,3 +1,14 @@
+# folders
+P1_Facial_Keypoints/data/*
+Exercises/1_1_Image_Representation/day_night_images/*
+Exercises/1_1_Image_Representation/images/*
+Exercises/1_2_Convolutional_Filters_Edge_Detection/images/*
+Exercises/1_3_Types_of_Features_Image_Segmentation/images/*
+Exercises/1_4_Feature_Vectors/images/*
+Exercises/1_4_Feature_Vectors/in_cell_images/*
+Exercises/1_5_CNN_Layers/data/*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
